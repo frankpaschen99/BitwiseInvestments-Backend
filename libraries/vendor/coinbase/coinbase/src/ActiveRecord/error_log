@@ -1,0 +1,1 @@
+[11-Jan-2016 08:28:07 America/Chicago] PHP Fatal error:  Trait 'Coinbase\Wallet\ActiveRecord\BaseActiveRecord' not found in /home2/codelackeys/public_html/libraries/vendor/coinbase/coinbase/src/ActiveRecord/PaymentMethodActiveRecord.php on line 7

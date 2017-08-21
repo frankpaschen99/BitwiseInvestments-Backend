@@ -1,0 +1,2 @@
+[10-Jan-2016 21:54:05 America/Chicago] PHP Fatal error:  Interface 'Coinbase\Wallet\Authentication\Authentication' not found in /home2/codelackeys/public_html/libraries/vendor/coinbase/coinbase/tests/AuthenticationStub.php on line 10
+[10-Jan-2016 21:54:13 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home2/codelackeys/public_html/libraries/vendor/coinbase/coinbase/tests/MapperTest.php on line 22
